@@ -8,3 +8,5 @@ Sooo I'm gonna add to render.
 render.yaml and requirements.txt are either meta data and (obviously) required modules.
 
 ## Credits to my friend [ApplePair111](applepair111.xyz) ([github link](github.com/ApplePair111))
+
+My friend Pull Requested this repository to help fix some typos in the README
